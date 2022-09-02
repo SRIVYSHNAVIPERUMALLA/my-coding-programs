@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<maath.h>
+#include<stdlib.h>
+int main()
+{
+  int sum=0;
+  if(gender=='b')
+  {
+    for(int i==0;i<number_ of_ stdents;i++;++i)
+    {
+      sum=sum+marks[i];
+      }
+  }
+  else
+  {
+    for(int i=1;i<number_ of_ students;i++;++i)
+    {
+      sum=sum+marks[i];
+    }
+   }
+   return sum;
+ }  
+   
